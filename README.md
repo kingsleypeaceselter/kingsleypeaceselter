@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @kingsleypeaceselter
-- 👀 I’m interested in learning software
-- 🌱 I’m currently learning .. 
+- 
 - 💞️ I’m looking to collaborate on gifhub
 - 📫 How to reach me 
 
