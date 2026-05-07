@@ -1,9 +1,19 @@
-- 👋 Hi, I’m @kingsleypeaceselter
-- 
-- 💞️ I’m looking to collaborate on gifhub
-- 📫 How to reach me 
+Hi there, I'm okeke Kingsley anayo! 👋
 
-<!---
-kingsleypeaceselter/kingsleypeaceselter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am an **O'Level student** and an aspiring **Junior Web Developer** currently focused on mastering JavaScript logic and building hands-on technical skills.
+
+### 🛠 My Tech Stack
+- **Languages:** JavaScript (ES6+), HTML5, CSS3
+- **Tools:** GitHub, VS Code
+- **Learning:** Data Structures, Web Architecture, and Computer Repair
+
+ 🚀 My Coding Journey
+- ⚡ **Logic Specialist:** Currently practicing Boolean logic, operators, and conditional scripts.
+- 🔧 **Hardware Enthusiast:** Interested in mobile phone and computer hardware fixing.
+- 🎓 **Goal:** Building a strong foundation to become a senior Developer by late 2026
+
+### 📫 How to reach me:
+- **GitHub:**
+- **201143203547,+2348064170371
+- **Focus:** Open to collaborating on beginner-friendly open-source projects!
+
